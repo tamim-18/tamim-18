@@ -63,7 +63,6 @@
 <br/><br/>
 
 <hr/>
-![git](https://github.com/tamim-18/tamim-18/assets/61451847/9c517169-e7e9-457b-9610-3971e9ed3106)
 
 
 
