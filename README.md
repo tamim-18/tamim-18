@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a remote job**
  
- 🌱 I’m currently learning **Django, NextJs, AWS**
+ 🌱 I’m currently learning **LLM, RAG, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/tamim-18/tamim-18/issues)**
+💬 Ask me about **NextJs Node.js, React, Firebase... or anything [here](https://github.com/tamim-18/tamim-18/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact *The effectiveness of data depends on the retriveness of it!!🚀**
 
  </div>
  
