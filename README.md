@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a remote job**
  
- 🌱 I’m currently learning **LLM, RAG, AWS**
+ 🌱 I’m currently learning **LLM, RAG, AWS, DL**
 
 💬 Ask me about **NextJs Node.js, React, Firebase... or anything [here](https://github.com/tamim-18/tamim-18/issues)**
 
